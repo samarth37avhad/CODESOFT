@@ -1,8 +1,5 @@
-# Zou – Farm Landing Page
+# Sindhu – Farm Landing Page
 
-### Demo
-* [Codepen]()
-* [Github Pages](--)
 
 
 ### Used technologies
@@ -12,6 +9,6 @@
 
 
  
- #### ScreenCapture
+ #### Sindhu Farm
  
 
